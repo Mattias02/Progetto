@@ -1,6 +1,6 @@
 int val_Adc = 0;
 float temp = 0;
-
+suca
 void setup()
 {
  
